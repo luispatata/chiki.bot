@@ -1,0 +1,2 @@
+# chiki.bot
+nothing
